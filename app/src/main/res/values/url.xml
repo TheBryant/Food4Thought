@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url1">"http://static2.businessinsider.com/image/51d44d206bb3f74f4a000007-1200/americas-version-of-chinese-food-looks-nothing-like-what-youd-find-in-china.jpg"</string>
+    <string name="url2">"http://www.slate.com/content/dam/slate/articles/life/food/2012/11/121106_FOOD_Curry.jpg.CROP.rectangle3-large.jpg"</string>
+    <string name="url3">"https://lh4.googleusercontent.com/-WQwjZYwbZxY/Ul24u4KvxUI/AAAAAAAAEnA/EHII6B4r0z4/w800-h800/2013-10-15"</string>
+    <string name="url4">"http://jimmylocklear.com/wp-content/uploads/2014/02/Food-Wine-3.jpg"</string>
+    <string name="url5">"http://media-cdn.tripadvisor.com/media/photo-s/03/05/3f/51/newton-food-centre.jpg"</string>
+
+    <string name="link1">"http://cookieandkate.com/"</string>
+    <string name="link2">"http://cookieandkate.com/"</string>
+    <string name="link3">"http://cookieandkate.com/"</string>
+    <string name="link4">"http://cookieandkate.com/"</string>
+    <string name="link5">"http://cookieandkate.com/"</string>
+</resources>
